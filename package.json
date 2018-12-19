@@ -20,5 +20,6 @@
   "homepage": "https://github.com/Lookas991/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
-  }
+  },
+  "dependencies": {}
 }
